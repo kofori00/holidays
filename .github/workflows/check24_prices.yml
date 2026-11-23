@@ -24,7 +24,7 @@ jobs:
 
       - name: Dependencies installeren
         run: |
-          pip install playwright requests
+          pip install -r requirements.txt
           playwright install chromium --with-deps
 
       - name: Prijzen ophalen
