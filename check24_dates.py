@@ -28,8 +28,8 @@ HOTELS = [
 ]
 
 AIRPORTS  = ["DTM", "CGN"]
-WIN_START = "2027-04-20"   # begin zoekvenster
-WIN_END   = "2027-05-15"   # einde zoekvenster
+WIN_START = "2027-04-24"   # begin zoekvenster (eerste vakantiedag)
+WIN_END   = "2027-05-08"   # einde zoekvenster
 NIGHTS    = [10, 11, 12]   # te testen nachten
 ROOM      = "A-A-5-0"
 CATERING  = "allinclusive"

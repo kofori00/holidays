@@ -39,8 +39,8 @@ HOTELS = [
 ]
 
 AIRPORTS     = ["DTM", "CGN"]          # Dortmund + Köln
-DEPARTURE    = "2027-04-27"
-RETURN_DATE  = "2027-05-08"
+DEPARTURE    = "2027-04-24"
+RETURN_DATE  = "2027-05-05"
 DAYS         = 12                      # = 11 nachten (Check24: reisdagen incl. heen+terug)
 ROOM         = "A-A-5-0"              # 2 volw. + kind 5jr + baby gratis
 CATERING     = "allinclusive"
