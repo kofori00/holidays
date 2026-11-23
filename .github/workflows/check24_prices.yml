@@ -1,0 +1,42 @@
+name: Check24 Prijsmonitor
+
+on:
+  schedule:
+    # Elke dag om 06:00 CET (= 05:00 UTC)
+    - cron: '0 5 * * *'
+  workflow_dispatch:   # ook handmatig starten via GitHub UI
+
+jobs:
+  check-prices:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write   # nodig voor het aanmaken van een Issue bij goede prijs
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Dependencies installeren
+        run: |
+          pip install playwright requests
+          playwright install chromium --with-deps
+
+      - name: Prijzen ophalen
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python check24_crawler.py
+
+      - name: Resultaten opslaan als artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: prijzen-${{ github.run_id }}
+          path: check24_live_*.json
+          retention-days: 30
