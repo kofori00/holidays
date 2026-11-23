@@ -1,0 +1,880 @@
+{
+  "scraped_at_utc": "2026-11-22T10:22:39.494335+00:00",
+  "window": "2027-04-24 to 2027-05-02",
+  "resorts": {
+    "Delphin BE Grand Resort": [
+      {
+        "ap": "FRA",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 2860.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DTM",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3197.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3150.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3253.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "FMO",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3233.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FMO&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=FMO&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "NRN",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3601.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=NRN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=NRN&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "BRU",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3734.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=BRU&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=BRU&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3736.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "FRA",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 2594.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "FRA",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 2535.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DTM",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 2794.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "DTM",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 2906.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 2872.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 2786.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 2902.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 2891.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "FMO",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 3001.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FMO&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=FMO&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "FMO",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 2924.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FMO&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=FMO&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "NRN",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 3400.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=NRN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=NRN&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "NRN",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 3182.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=NRN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=NRN&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "BRU",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 3495.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=BRU&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=BRU&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "BRU",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 3399.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=BRU&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=BRU&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 3329.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 3564.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "FRA",
+        "dep": "2027-04-24",
+        "ret": "2027-04-30",
+        "days": 7,
+        "nights": 6,
+        "price": 2287.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-04-30&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=24.04.2027-30.04.2027"
+      },
+      {
+        "ap": "FRA",
+        "dep": "2027-04-25",
+        "ret": "2027-05-01",
+        "days": 7,
+        "nights": 6,
+        "price": 2269.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-01&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=25.04.2027-01.05.2027"
+      },
+      {
+        "ap": "FRA",
+        "dep": "2027-04-26",
+        "ret": "2027-05-02",
+        "days": 7,
+        "nights": 6,
+        "price": 2384.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-02&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=26.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DTM",
+        "dep": "2027-04-24",
+        "ret": "2027-04-30",
+        "days": 7,
+        "nights": 6,
+        "price": 2543.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-04-30&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=24.04.2027-30.04.2027"
+      },
+      {
+        "ap": "DTM",
+        "dep": "2027-04-25",
+        "ret": "2027-05-01",
+        "days": 7,
+        "nights": 6,
+        "price": 2502.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-01&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=25.04.2027-01.05.2027"
+      },
+      {
+        "ap": "DTM",
+        "dep": "2027-04-26",
+        "ret": "2027-05-02",
+        "days": 7,
+        "nights": 6,
+        "price": 2577.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-02&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=26.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-24",
+        "ret": "2027-04-30",
+        "days": 7,
+        "nights": 6,
+        "price": 2571.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-04-30&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-30.04.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-25",
+        "ret": "2027-05-01",
+        "days": 7,
+        "nights": 6,
+        "price": 2448.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-01&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=25.04.2027-01.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-26",
+        "ret": "2027-05-02",
+        "days": 7,
+        "nights": 6,
+        "price": 2679.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-02&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=26.04.2027-02.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-24",
+        "ret": "2027-04-30",
+        "days": 7,
+        "nights": 6,
+        "price": 2564.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-04-30&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=24.04.2027-30.04.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-25",
+        "ret": "2027-05-01",
+        "days": 7,
+        "nights": 6,
+        "price": 2577.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-01&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=25.04.2027-01.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-26",
+        "ret": "2027-05-02",
+        "days": 7,
+        "nights": 6,
+        "price": 2655.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-02&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=26.04.2027-02.05.2027"
+      },
+      {
+        "ap": "FMO",
+        "dep": "2027-04-24",
+        "ret": "2027-04-30",
+        "days": 7,
+        "nights": 6,
+        "price": 2648.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FMO&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-04-30&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=FMO&reisezeitraum=24.04.2027-30.04.2027"
+      },
+      {
+        "ap": "FMO",
+        "dep": "2027-04-25",
+        "ret": "2027-05-01",
+        "days": 7,
+        "nights": 6,
+        "price": 2691.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FMO&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-01&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=FMO&reisezeitraum=25.04.2027-01.05.2027"
+      },
+      {
+        "ap": "FMO",
+        "dep": "2027-04-26",
+        "ret": "2027-05-02",
+        "days": 7,
+        "nights": 6,
+        "price": 2688.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FMO&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-02&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=FMO&reisezeitraum=26.04.2027-02.05.2027"
+      },
+      {
+        "ap": "NRN",
+        "dep": "2027-04-24",
+        "ret": "2027-04-30",
+        "days": 7,
+        "nights": 6,
+        "price": 2904.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=NRN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-04-30&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=NRN&reisezeitraum=24.04.2027-30.04.2027"
+      },
+      {
+        "ap": "NRN",
+        "dep": "2027-04-25",
+        "ret": "2027-05-01",
+        "days": 7,
+        "nights": 6,
+        "price": 2941.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=NRN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-01&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=NRN&reisezeitraum=25.04.2027-01.05.2027"
+      },
+      {
+        "ap": "NRN",
+        "dep": "2027-04-26",
+        "ret": "2027-05-02",
+        "days": 7,
+        "nights": 6,
+        "price": 2889.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=NRN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-02&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=NRN&reisezeitraum=26.04.2027-02.05.2027"
+      },
+      {
+        "ap": "BRU",
+        "dep": "2027-04-24",
+        "ret": "2027-04-30",
+        "days": 7,
+        "nights": 6,
+        "price": 3219.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=BRU&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-04-30&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=BRU&reisezeitraum=24.04.2027-30.04.2027"
+      },
+      {
+        "ap": "BRU",
+        "dep": "2027-04-25",
+        "ret": "2027-05-01",
+        "days": 7,
+        "nights": 6,
+        "price": 3163.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=BRU&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-01&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=BRU&reisezeitraum=25.04.2027-01.05.2027"
+      },
+      {
+        "ap": "BRU",
+        "dep": "2027-04-26",
+        "ret": "2027-05-02",
+        "days": 7,
+        "nights": 6,
+        "price": 2858.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=BRU&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-02&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=BRU&reisezeitraum=26.04.2027-02.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-24",
+        "ret": "2027-04-30",
+        "days": 7,
+        "nights": 6,
+        "price": 3093.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-04-30&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=24.04.2027-30.04.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-25",
+        "ret": "2027-05-01",
+        "days": 7,
+        "nights": 6,
+        "price": 3190.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-01&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=25.04.2027-01.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-26",
+        "ret": "2027-05-02",
+        "days": 7,
+        "nights": 6,
+        "price": 3120.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-02&days=7&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=26.04.2027-02.05.2027"
+      }
+    ],
+    "Rixos Sungate": [
+      {
+        "ap": "FRA",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 2549.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 2777.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 2889.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3300.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "FRA",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 2291.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "FRA",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 2256.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 2502.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 2496.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 2631.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 2629.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 2900.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 3197.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=25.04.2027-02.05.2027"
+      }
+    ],
+    "Papillon Zeugma Relaxury": [
+      {
+        "ap": "FRA",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 2906.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3150.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3287.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3797.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "FRA",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 2646.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "FRA",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 2541.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 2880.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 2784.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 3027.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 2958.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 3424.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 3563.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=25.04.2027-02.05.2027"
+      }
+    ],
+    "Land of Legends Nickelodeon": [
+      {
+        "ap": "FRA",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 2941.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3295.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3327.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3837.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "FRA",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 2743.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "FRA",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 2680.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 3022.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 2926.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 3052.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 3041.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 3555.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 3749.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=25.04.2027-02.05.2027"
+      }
+    ],
+    "Ela Excellence Resort Belek": [
+      {
+        "ap": "FRA",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3823.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=18693&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 3976.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=18693&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 4184.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=18693&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-02",
+        "days": 9,
+        "nights": 8,
+        "price": 4772.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-02&days=9&page=1&pageArea=package&areaId=578&hotelId=18693&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=24.04.2027-02.05.2027"
+      },
+      {
+        "ap": "FRA",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 3451.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=18693&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "FRA",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 3345.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=18693&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 3590.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=18693&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "DUS",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 3591.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=18693&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 3769.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=18693&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "CGN",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 3715.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=18693&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=25.04.2027-02.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-24",
+        "ret": "2027-05-01",
+        "days": 8,
+        "nights": 7,
+        "price": 4296.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-01&days=8&page=1&pageArea=package&areaId=578&hotelId=18693&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=24.04.2027-01.05.2027"
+      },
+      {
+        "ap": "AMS",
+        "dep": "2027-04-25",
+        "ret": "2027-05-02",
+        "days": 8,
+        "nights": 7,
+        "price": 4271.0,
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-02&days=8&page=1&pageArea=package&areaId=578&hotelId=18693&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=25.04.2027-02.05.2027"
+      }
+    ]
+  }
+}

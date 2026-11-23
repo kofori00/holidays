@@ -1,0 +1,98 @@
+[
+  {
+    "ap": "HAM",
+    "dep_ap": "Hamburg (HAM)",
+    "dep": "2027-04-24",
+    "ret": "2027-05-05",
+    "price": 3052.0,
+    "url": "https://urlaub.check24.de/suche/angebot?airport=HAM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=HAM&reisezeitraum=24.04.2027-05.05.2027"
+  },
+  {
+    "ap": "FRA",
+    "dep_ap": "Frankfurt am Main (FRA)",
+    "dep": "2027-04-24",
+    "ret": "2027-05-05",
+    "price": 3157.0,
+    "url": "https://urlaub.check24.de/suche/angebot?airport=FRA&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=FRA&reisezeitraum=24.04.2027-05.05.2027"
+  },
+  {
+    "ap": "HAJ",
+    "dep_ap": "Hannover (HAJ)",
+    "dep": "2027-04-24",
+    "ret": "2027-05-05",
+    "price": 3295.0,
+    "url": "https://urlaub.check24.de/suche/angebot?airport=HAJ&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=HAJ&reisezeitraum=24.04.2027-05.05.2027"
+  },
+  {
+    "ap": "BRE",
+    "dep_ap": "Bremen (BRE)",
+    "dep": "2027-04-25",
+    "ret": "2027-05-06",
+    "price": 3420.0,
+    "url": "https://urlaub.check24.de/suche/angebot?airport=BRE&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-06&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=BRE&reisezeitraum=25.04.2027-06.05.2027"
+  },
+  {
+    "ap": "PAD",
+    "dep_ap": "Paderborn (PAD)",
+    "dep": "2027-04-24",
+    "ret": "2027-05-05",
+    "price": 3436.0,
+    "url": "https://urlaub.check24.de/suche/angebot?airport=PAD&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=PAD&reisezeitraum=24.04.2027-05.05.2027"
+  },
+  {
+    "ap": "DTM",
+    "dep_ap": "Dortmund (DTM)",
+    "dep": "2027-04-24",
+    "ret": "2027-05-05",
+    "price": 3436.0,
+    "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=24.04.2027-05.05.2027"
+  },
+  {
+    "ap": "DUS",
+    "dep_ap": "D\u00fcsseldorf (DUS)",
+    "dep": "2027-04-25",
+    "ret": "2027-05-06",
+    "price": 3492.0,
+    "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-06&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=25.04.2027-06.05.2027"
+  },
+  {
+    "ap": "CGN",
+    "dep_ap": "K\u00f6ln-Bonn (CGN)",
+    "dep": "2027-04-28",
+    "ret": "2027-05-09",
+    "price": 3582.0,
+    "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-28&returnDate=2027-05-09&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=28.04.2027-09.05.2027"
+  },
+  {
+    "ap": "FMO",
+    "dep_ap": "M\u00fcnster/Osnabr\u00fcck (FMO)",
+    "dep": "2027-04-25",
+    "ret": "2027-05-06",
+    "price": 3699.0,
+    "url": "https://urlaub.check24.de/suche/angebot?airport=FMO&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-06&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=FMO&reisezeitraum=25.04.2027-06.05.2027"
+  },
+  {
+    "ap": "NRN",
+    "dep_ap": "Weeze (NRN)",
+    "dep": "2027-04-27",
+    "ret": "2027-05-08",
+    "price": 4062.0,
+    "url": "https://urlaub.check24.de/suche/angebot?airport=NRN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-27&returnDate=2027-05-08&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=NRN&reisezeitraum=27.04.2027-08.05.2027"
+  },
+  {
+    "ap": "BRU",
+    "dep_ap": "Br\u00fcssel (BRU)",
+    "dep": "2027-04-26",
+    "ret": "2027-05-07",
+    "price": 4242.0,
+    "url": "https://urlaub.check24.de/suche/angebot?airport=BRU&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-07&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=BRU&reisezeitraum=26.04.2027-07.05.2027"
+  },
+  {
+    "ap": "AMS",
+    "dep_ap": "Amsterdam Schiphol (AMS)",
+    "dep": "2027-04-26",
+    "ret": "2027-05-07",
+    "price": 4926.0,
+    "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-07&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=26.04.2027-07.05.2027"
+  }
+]

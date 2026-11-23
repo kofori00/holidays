@@ -1,0 +1,67 @@
+{
+  "started_at_utc": "2026-11-22T07:55:09.137919+00:00",
+  "finished_at_utc": "2026-11-22T07:55:50.074559+00:00",
+  "config": {
+    "adults": 2,
+    "child_ages": "5,0",
+    "roomAllocation": "A-A-5-0",
+    "board": "AI",
+    "airports": [
+      "AMS",
+      "DUS",
+      "CGN"
+    ],
+    "windows_7n": [
+      [
+        "Meivakantie (May / Spring Break)",
+        "2027-04-15",
+        "2027-05-15"
+      ],
+      [
+        "Early Summer (June Deals)",
+        "2027-06-01",
+        "2027-06-30"
+      ],
+      [
+        "Zomervakantie (Summer Peak)",
+        "2027-07-01",
+        "2027-08-31"
+      ],
+      [
+        "Herfstvakantie (Autumn Break)",
+        "2027-10-01",
+        "2027-10-31"
+      ]
+    ],
+    "meivakantie_long_nights": [
+      11,
+      12
+    ]
+  },
+  "hotels": {
+    "rixos_premium_belek": {
+      "name": "Rixos Premium Belek - The Land of Legends Access",
+      "hotel_id": 14852,
+      "area_id": 578,
+      "verified_page_title": "Rixos Premium Belek - The Land of Legends Access - Angebote | CHECK24 Reise",
+      "count_7n": 400,
+      "count_mei_11_12n": 155,
+      "errors": [
+        "Meivakantie [CGN] 12N Error: ('Connection aborted.', ConnectionAbortedError(103, 'Software caused connection abort'))"
+      ],
+      "out_7n": "/data/data/com.termux/files/home/holidays/rixos_premium_belek_deals.json",
+      "out_mei": "/data/data/com.termux/files/home/holidays/rixos_premium_belek_meivakantie_11_12_nights.json"
+    },
+    "rixos_sungate": {
+      "name": "Rixos Sungate - The Land of Legends Access",
+      "hotel_id": 16147,
+      "area_id": 580,
+      "verified_page_title": "Rixos Sungate - The Land of Legends Access - Angebote | CHECK24 Reise",
+      "count_7n": 400,
+      "count_mei_11_12n": 186,
+      "errors": [],
+      "out_7n": "/data/data/com.termux/files/home/holidays/rixos_sungate_deals.json",
+      "out_mei": "/data/data/com.termux/files/home/holidays/rixos_sungate_meivakantie_11_12_nights.json"
+    }
+  }
+}

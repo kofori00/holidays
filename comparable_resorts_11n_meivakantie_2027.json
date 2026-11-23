@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Club Hotel Sera",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7849",
+    "area_label": "Antalya / Lara",
+    "rating": 8.6,
+    "reviews": 918,
+    "area_id": 578,
+    "hotel_id": 1012,
+    "verified_title": "Club Hotel Sera",
+    "offers": {
+      "ALL_BEST": {
+        "price": 1903.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "HAM",
+        "dep_ap_name": "Hamburg (HAM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=HAM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=1012&offerSort=default&verpflegung=AI&ab=HAM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "DTM": {
+        "price": 2332.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "DTM",
+        "dep_ap_name": "Dortmund (DTM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=1012&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "CGN": {
+        "price": 2417.0,
+        "dep": "2027-04-28",
+        "ret": "2027-05-09",
+        "real_ap": "CGN",
+        "dep_ap_name": "K\u00f6ln-Bonn (CGN)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-28&returnDate=2027-05-09&days=12&page=1&pageArea=package&areaId=578&hotelId=1012&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=28.04.2027-09.05.2027"
+      },
+      "DUS": {
+        "price": 2484.0,
+        "dep": "2027-04-25",
+        "ret": "2027-05-06",
+        "real_ap": "DUS",
+        "dep_ap_name": "D\u00fcsseldorf (DUS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-06&days=12&page=1&pageArea=package&areaId=578&hotelId=1012&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=25.04.2027-06.05.2027"
+      },
+      "AMS": {
+        "price": 3036.0,
+        "dep": "2027-04-27",
+        "ret": "2027-05-08",
+        "real_ap": "AMS",
+        "dep_ap_name": "Amsterdam Schiphol (AMS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-27&returnDate=2027-05-08&days=12&page=1&pageArea=package&areaId=578&hotelId=1012&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=27.04.2027-08.05.2027"
+      }
+    }
+  },
+  {
+    "name": "Belconti Resort Hotel",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7825",
+    "area_label": "Antalya / Lara",
+    "rating": 8.4,
+    "reviews": 1847,
+    "area_id": 578,
+    "hotel_id": 6436,
+    "verified_title": "Belconti Resort Hotel",
+    "offers": {
+      "ALL_BEST": {
+        "price": 2048.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "HAM",
+        "dep_ap_name": "Hamburg (HAM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=HAM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=6436&offerSort=default&verpflegung=AI&ab=HAM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "DTM": {
+        "price": 2452.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "DTM",
+        "dep_ap_name": "Dortmund (DTM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=6436&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "CGN": {
+        "price": 2562.0,
+        "dep": "2027-04-28",
+        "ret": "2027-05-09",
+        "real_ap": "CGN",
+        "dep_ap_name": "K\u00f6ln-Bonn (CGN)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-28&returnDate=2027-05-09&days=12&page=1&pageArea=package&areaId=578&hotelId=6436&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=28.04.2027-09.05.2027"
+      },
+      "DUS": {
+        "price": 2624.0,
+        "dep": "2027-04-25",
+        "ret": "2027-05-06",
+        "real_ap": "DUS",
+        "dep_ap_name": "D\u00fcsseldorf (DUS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-06&days=12&page=1&pageArea=package&areaId=578&hotelId=6436&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=25.04.2027-06.05.2027"
+      },
+      "AMS": {
+        "price": 3258.0,
+        "dep": "2027-04-26",
+        "ret": "2027-05-07",
+        "real_ap": "AMS",
+        "dep_ap_name": "Amsterdam Schiphol (AMS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-07&days=12&page=1&pageArea=package&areaId=578&hotelId=6436&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=26.04.2027-07.05.2027"
+      }
+    }
+  },
+  {
+    "name": "Limak Arcadia Sport Resort Hotel",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7795",
+    "area_label": "Antalya / Lara",
+    "rating": 8.6,
+    "reviews": 2018,
+    "area_id": 578,
+    "hotel_id": 5364,
+    "verified_title": "Limak Arcadia Sport Resort Hotel",
+    "offers": {
+      "ALL_BEST": {
+        "price": 2247.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "HAM",
+        "dep_ap_name": "Hamburg (HAM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=HAM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=5364&offerSort=default&verpflegung=AI&ab=HAM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "DTM": {
+        "price": 2669.0,
+        "dep": "2027-04-27",
+        "ret": "2027-05-08",
+        "real_ap": "DTM",
+        "dep_ap_name": "Dortmund (DTM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-27&returnDate=2027-05-08&days=12&page=1&pageArea=package&areaId=578&hotelId=5364&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=27.04.2027-08.05.2027"
+      },
+      "CGN": {
+        "price": 2700.0,
+        "dep": "2027-04-28",
+        "ret": "2027-05-09",
+        "real_ap": "CGN",
+        "dep_ap_name": "K\u00f6ln-Bonn (CGN)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-28&returnDate=2027-05-09&days=12&page=1&pageArea=package&areaId=578&hotelId=5364&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=28.04.2027-09.05.2027"
+      },
+      "DUS": {
+        "price": 2704.0,
+        "dep": "2027-04-25",
+        "ret": "2027-05-06",
+        "real_ap": "DUS",
+        "dep_ap_name": "D\u00fcsseldorf (DUS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-06&days=12&page=1&pageArea=package&areaId=578&hotelId=5364&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=25.04.2027-06.05.2027"
+      },
+      "AMS": {
+        "price": 3380.0,
+        "dep": "2027-04-27",
+        "ret": "2027-05-08",
+        "real_ap": "AMS",
+        "dep_ap_name": "Amsterdam Schiphol (AMS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-27&returnDate=2027-05-08&days=12&page=1&pageArea=package&areaId=578&hotelId=5364&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=27.04.2027-08.05.2027"
+      }
+    }
+  },
+  {
+    "name": "Titanic Deluxe Lara",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7848",
+    "area_label": "Antalya / Lara",
+    "rating": 8.2,
+    "reviews": 917,
+    "area_id": 578,
+    "hotel_id": 13052,
+    "verified_title": "Titanic Deluxe Lara",
+    "offers": {
+      "ALL_BEST": {
+        "price": 2926.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "HAM",
+        "dep_ap_name": "Hamburg (HAM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=HAM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=13052&offerSort=default&verpflegung=AI&ab=HAM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "DTM": {
+        "price": 3355.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "DTM",
+        "dep_ap_name": "Dortmund (DTM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=13052&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "CGN": {
+        "price": 3580.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "CGN",
+        "dep_ap_name": "K\u00f6ln-Bonn (CGN)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=13052&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "DUS": {
+        "price": 3655.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "DUS",
+        "dep_ap_name": "D\u00fcsseldorf (DUS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=13052&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "AMS": {
+        "price": 4197.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "AMS",
+        "dep_ap_name": "Amsterdam Schiphol (AMS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=13052&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=24.04.2027-05.05.2027"
+      }
+    }
+  },
+  {
+    "name": "BAYOU Lara by Barut",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7854",
+    "area_label": "Antalya / Lara",
+    "rating": 9.5,
+    "reviews": 566,
+    "area_id": 578,
+    "hotel_id": 15718,
+    "verified_title": "BAYOU Lara by Barut",
+    "offers": {
+      "ALL_BEST": {
+        "price": 3052.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "HAM",
+        "dep_ap_name": "Hamburg (HAM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=HAM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=HAM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "DTM": {
+        "price": 3436.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "DTM",
+        "dep_ap_name": "Dortmund (DTM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "CGN": {
+        "price": 3582.0,
+        "dep": "2027-04-28",
+        "ret": "2027-05-09",
+        "real_ap": "CGN",
+        "dep_ap_name": "K\u00f6ln-Bonn (CGN)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-28&returnDate=2027-05-09&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=28.04.2027-09.05.2027"
+      },
+      "DUS": {
+        "price": 3492.0,
+        "dep": "2027-04-25",
+        "ret": "2027-05-06",
+        "real_ap": "DUS",
+        "dep_ap_name": "D\u00fcsseldorf (DUS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-06&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=25.04.2027-06.05.2027"
+      },
+      "AMS": {
+        "price": 4926.0,
+        "dep": "2027-04-26",
+        "ret": "2027-05-07",
+        "real_ap": "AMS",
+        "dep_ap_name": "Amsterdam Schiphol (AMS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-07&days=12&page=1&pageArea=package&areaId=578&hotelId=15718&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=26.04.2027-07.05.2027"
+      }
+    }
+  },
+  {
+    "name": "Delphin Imperial",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7861",
+    "area_label": "Antalya / Lara",
+    "rating": 9.3,
+    "reviews": 3155,
+    "area_id": 578,
+    "hotel_id": 28054,
+    "verified_title": "Delphin Imperial Hotel",
+    "offers": {
+      "ALL_BEST": {
+        "price": 3336.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "HAM",
+        "dep_ap_name": "Hamburg (HAM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=HAM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=28054&offerSort=default&verpflegung=AI&ab=HAM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "DTM": {
+        "price": 3765.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "DTM",
+        "dep_ap_name": "Dortmund (DTM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=28054&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "CGN": {
+        "price": 3835.0,
+        "dep": "2027-04-28",
+        "ret": "2027-05-09",
+        "real_ap": "CGN",
+        "dep_ap_name": "K\u00f6ln-Bonn (CGN)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-28&returnDate=2027-05-09&days=12&page=1&pageArea=package&areaId=578&hotelId=28054&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=28.04.2027-09.05.2027"
+      },
+      "DUS": {
+        "price": 3938.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "DUS",
+        "dep_ap_name": "D\u00fcsseldorf (DUS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=28054&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "AMS": {
+        "price": 4456.0,
+        "dep": "2027-04-26",
+        "ret": "2027-05-07",
+        "real_ap": "AMS",
+        "dep_ap_name": "Amsterdam Schiphol (AMS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-07&days=12&page=1&pageArea=package&areaId=578&hotelId=28054&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=26.04.2027-07.05.2027"
+      }
+    }
+  },
+  {
+    "name": "Delphin BE Grand Resort",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7846",
+    "area_label": "Antalya / Lara",
+    "rating": 9.1,
+    "reviews": 2569,
+    "area_id": 578,
+    "hotel_id": 12975,
+    "verified_title": "Delphin BE Grand Resort",
+    "offers": {
+      "ALL_BEST": {
+        "price": 3343.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "HAM",
+        "dep_ap_name": "Hamburg (HAM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=HAM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=HAM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "DTM": {
+        "price": 3772.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "DTM",
+        "dep_ap_name": "Dortmund (DTM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "CGN": {
+        "price": 3843.0,
+        "dep": "2027-04-28",
+        "ret": "2027-05-09",
+        "real_ap": "CGN",
+        "dep_ap_name": "K\u00f6ln-Bonn (CGN)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-28&returnDate=2027-05-09&days=12&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=28.04.2027-09.05.2027"
+      },
+      "DUS": {
+        "price": 3890.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "DUS",
+        "dep_ap_name": "D\u00fcsseldorf (DUS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "AMS": {
+        "price": 4378.0,
+        "dep": "2027-04-28",
+        "ret": "2027-05-09",
+        "real_ap": "AMS",
+        "dep_ap_name": "Amsterdam Schiphol (AMS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-28&returnDate=2027-05-09&days=12&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=28.04.2027-09.05.2027"
+      }
+    }
+  },
+  {
+    "name": "Melas Lara Hotel",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7856",
+    "area_label": "Antalya / Lara",
+    "rating": 8.9,
+    "reviews": 2098,
+    "area_id": 578,
+    "hotel_id": 22546,
+    "verified_title": "Melas Lara Hotel",
+    "offers": {
+      "ALL_BEST": {
+        "price": 3363.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "HAM",
+        "dep_ap_name": "Hamburg (HAM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=HAM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=22546&offerSort=default&verpflegung=AI&ab=HAM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "DTM": {
+        "price": 3803.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "DTM",
+        "dep_ap_name": "Dortmund (DTM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=22546&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "CGN": {
+        "price": 3884.0,
+        "dep": "2027-04-28",
+        "ret": "2027-05-09",
+        "real_ap": "CGN",
+        "dep_ap_name": "K\u00f6ln-Bonn (CGN)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-28&returnDate=2027-05-09&days=12&page=1&pageArea=package&areaId=578&hotelId=22546&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=28.04.2027-09.05.2027"
+      },
+      "DUS": {
+        "price": 3748.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "DUS",
+        "dep_ap_name": "D\u00fcsseldorf (DUS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=22546&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "AMS": {
+        "price": 4287.0,
+        "dep": "2027-04-26",
+        "ret": "2027-05-07",
+        "real_ap": "AMS",
+        "dep_ap_name": "Amsterdam Schiphol (AMS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-26&returnDate=2027-05-07&days=12&page=1&pageArea=package&areaId=578&hotelId=22546&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=26.04.2027-07.05.2027"
+      }
+    }
+  },
+  {
+    "name": "Rixos Premium Tekirova",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/8831",
+    "area_label": "Kemer / Tekirova",
+    "rating": 8.4,
+    "reviews": 328,
+    "area_id": 580,
+    "hotel_id": 913,
+    "verified_title": "Rixos Premium Tekirova - The Land of Legends Access",
+    "offers": {
+      "ALL_BEST": {
+        "price": 4242.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "HAM",
+        "dep_ap_name": "Hamburg (HAM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=HAM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=580&hotelId=913&offerSort=default&verpflegung=AI&ab=HAM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "DTM": {
+        "price": 4541.0,
+        "dep": "2027-04-25",
+        "ret": "2027-05-06",
+        "real_ap": "DTM",
+        "dep_ap_name": "Dortmund (DTM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-06&days=12&page=1&pageArea=package&areaId=580&hotelId=913&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=25.04.2027-06.05.2027"
+      },
+      "CGN": {
+        "price": 4827.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "CGN",
+        "dep_ap_name": "K\u00f6ln-Bonn (CGN)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=580&hotelId=913&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "DUS": {
+        "price": 4494.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "DUS",
+        "dep_ap_name": "D\u00fcsseldorf (DUS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=580&hotelId=913&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "AMS": {
+        "price": 5076.0,
+        "dep": "2027-04-25",
+        "ret": "2027-05-06",
+        "real_ap": "AMS",
+        "dep_ap_name": "Amsterdam Schiphol (AMS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-06&days=12&page=1&pageArea=package&areaId=580&hotelId=913&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=25.04.2027-06.05.2027"
+      }
+    }
+  },
+  {
+    "name": "Elysium Green Suites",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/869683",
+    "area_label": "Antalya / Lara",
+    "rating": 8.0,
+    "reviews": 71,
+    "area_id": 578,
+    "hotel_id": 1601696,
+    "verified_title": "Elysium Green Suites",
+    "offers": {
+      "ALL_BEST": {
+        "price": 6503.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "HAM",
+        "dep_ap_name": "Hamburg (HAM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=HAM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=1601696&offerSort=default&verpflegung=AI&ab=HAM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "DTM": {
+        "price": 7132.0,
+        "dep": "2027-04-24",
+        "ret": "2027-05-05",
+        "real_ap": "DTM",
+        "dep_ap_name": "Dortmund (DTM)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DTM&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-24&returnDate=2027-05-05&days=12&page=1&pageArea=package&areaId=578&hotelId=1601696&offerSort=default&verpflegung=AI&ab=DTM&reisezeitraum=24.04.2027-05.05.2027"
+      },
+      "CGN": {
+        "price": 7201.0,
+        "dep": "2027-04-25",
+        "ret": "2027-05-06",
+        "real_ap": "CGN",
+        "dep_ap_name": "K\u00f6ln-Bonn (CGN)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=CGN&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-06&days=12&page=1&pageArea=package&areaId=578&hotelId=1601696&offerSort=default&verpflegung=AI&ab=CGN&reisezeitraum=25.04.2027-06.05.2027"
+      },
+      "DUS": {
+        "price": 7066.0,
+        "dep": "2027-04-25",
+        "ret": "2027-05-06",
+        "real_ap": "DUS",
+        "dep_ap_name": "D\u00fcsseldorf (DUS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-06&days=12&page=1&pageArea=package&areaId=578&hotelId=1601696&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=25.04.2027-06.05.2027"
+      },
+      "AMS": {
+        "price": 7801.0,
+        "dep": "2027-04-25",
+        "ret": "2027-05-06",
+        "real_ap": "AMS",
+        "dep_ap_name": "Amsterdam Schiphol (AMS)",
+        "url": "https://urlaub.check24.de/suche/angebot?airport=AMS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-25&returnDate=2027-05-06&days=12&page=1&pageArea=package&areaId=578&hotelId=1601696&offerSort=default&verpflegung=AI&ab=AMS&reisezeitraum=25.04.2027-06.05.2027"
+      }
+    }
+  }
+]

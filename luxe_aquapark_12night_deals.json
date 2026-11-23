@@ -1,0 +1,72 @@
+[
+  {
+    "label": "Delphin BE Grand Resort",
+    "area_label": "Antalya / Lara",
+    "resolved_url": "https://urlaub.check24.de/hotel/tuerkei/7846",
+    "area_id": 578,
+    "hotel_id": 12975,
+    "rating": 9.1,
+    "reviews": 2569,
+    "verified_title": "Delphin BE Grand Resort - Angebote | CHECK24 Reise",
+    "best_12d": {
+      "price": 2966.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-26",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-26&days=12&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-26.04.2027"
+    },
+    "best_13d": {
+      "price": 3228.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-27",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-27&days=13&page=1&pageArea=package&areaId=578&hotelId=12975&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-27.04.2027"
+    }
+  },
+  {
+    "label": "Rixos Premium Tekirova",
+    "area_label": "Kemer / Tekirova",
+    "resolved_url": "https://hotel.check24.de/hotel/turkey/9175133",
+    "error": "Could not extract hotelId from https://hotel.check24.de/hotel/turkey/9175133"
+  },
+  {
+    "label": "Ela Excellence Resort Belek",
+    "area_label": "Belek",
+    "resolved_url": "https://urlaub.check24.de/hotel/tuerkei/7810",
+    "error": "Could not extract hotelId from https://urlaub.check24.de/hotel/tuerkei/7810"
+  },
+  {
+    "label": "Granada Luxury Belek",
+    "area_label": "Belek",
+    "resolved_url": "https://urlaub.check24.de/hotel/tuerkei/92783",
+    "error": "Could not extract hotelId from https://urlaub.check24.de/hotel/tuerkei/92783"
+  },
+  {
+    "label": "Delphin Imperial",
+    "area_label": "Antalya / Lara",
+    "resolved_url": "https://urlaub.check24.de/reisewelt/tuerkei-delphin-hotels",
+    "error": "Could not extract hotelId from https://urlaub.check24.de/reisewelt/tuerkei-delphin-hotels"
+  },
+  {
+    "label": "The Land of Legends Kingdom Hotel",
+    "area_label": "Belek / Kadriye",
+    "resolved_url": "https://hotel.check24.de/hotel/turkey/9630617",
+    "error": "Could not extract hotelId from https://hotel.check24.de/hotel/turkey/9630617"
+  },
+  {
+    "label": "Titanic Deluxe Golf / Luxury Collection Belek",
+    "area_label": "Belek",
+    "resolved_url": "https://urlaub.check24.de/hotel/tuerkei/7834",
+    "error": "Could not extract hotelId from https://urlaub.check24.de/hotel/tuerkei/7834"
+  },
+  {
+    "label": "Selectum Luxury Resort Belek",
+    "area_label": "Belek",
+    "resolved_url": "https://urlaub.check24.de/hotel/tuerkei/81688",
+    "error": "Could not extract hotelId from https://urlaub.check24.de/hotel/tuerkei/81688"
+  },
+  {
+    "label": "G\u00fcral Premier Belek",
+    "area_label": "Belek",
+    "resolved_url": "https://hotel.check24.de/hotel/turkey/7468576",
+    "error": "Could not extract hotelId from https://hotel.check24.de/hotel/turkey/7468576"
+  }
+]

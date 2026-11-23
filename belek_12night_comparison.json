@@ -1,0 +1,207 @@
+[
+  {
+    "name": "Belconti Resort Hotel",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7825",
+    "rating": 8.4,
+    "reviews": 1847,
+    "area_label": "Belek",
+    "area_id": 578,
+    "hotel_id": 6436,
+    "best_12d": {
+      "price": 1907.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-26",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-26&days=12&page=1&pageArea=package&areaId=578&hotelId=6436&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-26.04.2027"
+    },
+    "best_13d": {
+      "price": 2026.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-27",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-27&days=13&page=1&pageArea=package&areaId=578&hotelId=6436&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-27.04.2027"
+    }
+  },
+  {
+    "name": "Limak Arcadia Sport Resort Hotel",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7795",
+    "rating": 8.6,
+    "reviews": 2018,
+    "area_label": "Belek",
+    "area_id": 578,
+    "hotel_id": 5364,
+    "best_12d": {
+      "price": 1921.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-26",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-26&days=12&page=1&pageArea=package&areaId=578&hotelId=5364&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-26.04.2027"
+    },
+    "best_13d": {
+      "price": 2077.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-27",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-27&days=13&page=1&pageArea=package&areaId=578&hotelId=5364&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-27.04.2027"
+    }
+  },
+  {
+    "name": "Limak Atlantis Deluxe Hotel & Resort",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7794",
+    "rating": 8.4,
+    "reviews": 1818,
+    "area_label": "Belek",
+    "area_id": 578,
+    "hotel_id": 8588,
+    "rec_pct": 100,
+    "best_12d": {
+      "price": 1994.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-26",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-26&days=12&page=1&pageArea=package&areaId=578&hotelId=8588&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-26.04.2027"
+    },
+    "best_13d": {
+      "price": 2155.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-27",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-27&days=13&page=1&pageArea=package&areaId=578&hotelId=8588&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-27.04.2027"
+    }
+  },
+  {
+    "name": "Paloma Grida",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7820",
+    "rating": 8.6,
+    "reviews": 761,
+    "area_label": "Belek",
+    "area_id": 578,
+    "hotel_id": 6208,
+    "best_12d": {
+      "price": 2652.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-26",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-26&days=12&page=1&pageArea=package&areaId=578&hotelId=6208&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-26.04.2027"
+    },
+    "best_13d": {
+      "price": 2842.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-27",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-27&days=13&page=1&pageArea=package&areaId=578&hotelId=6208&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-27.04.2027"
+    }
+  },
+  {
+    "name": "Rixos Sungate - The Land of Legends Access",
+    "hotel_id": 16147,
+    "area_id": 580,
+    "area_label": "Kemer (Beldibi)",
+    "rating": 0.0,
+    "reviews": 0,
+    "best_12d": {
+      "price": 2773.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-26",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-26&days=12&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-26.04.2027"
+    },
+    "best_13d": {
+      "price": 2964.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-27",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-27&days=13&page=1&pageArea=package&areaId=580&hotelId=16147&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-27.04.2027"
+    }
+  },
+  {
+    "name": "Papillon Zeugma Relaxury",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7787",
+    "rating": 8.9,
+    "reviews": 446,
+    "area_label": "Belek",
+    "area_id": 578,
+    "hotel_id": 9848,
+    "best_12d": {
+      "price": 3000.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-26",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-26&days=12&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-26.04.2027"
+    },
+    "best_13d": {
+      "price": 3259.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-27",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-27&days=13&page=1&pageArea=package&areaId=578&hotelId=9848&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-27.04.2027"
+    }
+  },
+  {
+    "name": "Susesi Luxury Resort",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7788",
+    "rating": 8.7,
+    "reviews": 260,
+    "area_label": "Belek",
+    "area_id": 578,
+    "hotel_id": 19028,
+    "best_12d": {
+      "price": 3088.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-26",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-26&days=12&page=1&pageArea=package&areaId=578&hotelId=19028&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-26.04.2027"
+    },
+    "best_13d": {
+      "price": 3344.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-27",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-27&days=13&page=1&pageArea=package&areaId=578&hotelId=19028&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-27.04.2027"
+    }
+  },
+  {
+    "name": "The Land of Legends Nickelodeon Hotels & Resorts Antalya",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/1289603",
+    "rating": 8.7,
+    "reviews": 44,
+    "area_label": "Belek",
+    "area_id": 578,
+    "hotel_id": 1997328,
+    "best_12d": {
+      "price": 3327.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-26",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-26&days=12&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-26.04.2027"
+    },
+    "best_13d": {
+      "price": 3578.0,
+      "dep": "2027-04-15",
+      "ret": "2027-04-27",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-15&returnDate=2027-04-27&days=13&page=1&pageArea=package&areaId=578&hotelId=1997328&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=15.04.2027-27.04.2027"
+    }
+  },
+  {
+    "name": "Rixos Premium Belek - The Land of Legends Access",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7791",
+    "rating": 9.1,
+    "reviews": 572,
+    "area_label": "Belek",
+    "area_id": 578,
+    "hotel_id": 14852,
+    "best_12d": {
+      "price": 5596.0,
+      "dep": "2027-04-16",
+      "ret": "2027-04-27",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-16&returnDate=2027-04-27&days=12&page=1&pageArea=package&areaId=578&hotelId=14852&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=16.04.2027-27.04.2027"
+    },
+    "best_13d": {
+      "price": 6065.0,
+      "dep": "2027-04-16",
+      "ret": "2027-04-28",
+      "url": "https://urlaub.check24.de/suche/angebot?airport=DUS&transportType=flight&roomAllocation=A-A-5-0&departureDate=2027-04-16&returnDate=2027-04-28&days=13&page=1&pageArea=package&areaId=578&hotelId=14852&offerSort=default&verpflegung=AI&ab=DUS&reisezeitraum=16.04.2027-28.04.2027"
+    }
+  },
+  {
+    "name": "Xanadu Resort",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7822",
+    "rating": 8.7,
+    "reviews": 223,
+    "area_label": "Belek",
+    "error": "no hotelId found"
+  },
+  {
+    "name": "G\u00fcral Premier Belek",
+    "seo_url": "https://urlaub.check24.de/hotel/tuerkei/7816",
+    "rating": 8.7,
+    "reviews": 541,
+    "area_label": "Belek",
+    "error": "no hotelId found"
+  }
+]
