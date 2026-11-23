@@ -33,10 +33,18 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python check24_crawler.py
 
+      - name: Datumscanner draaien
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python check24_dates.py
+
       - name: Resultaten opslaan als artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: prijzen-${{ github.run_id }}
-          path: check24_live_*.json
+          path: |
+            check24_live_*.json
+            check24_dates_*.json
           retention-days: 30
