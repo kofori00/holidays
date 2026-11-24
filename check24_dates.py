@@ -171,6 +171,35 @@ def create_github_issue(title: str, body: str):
         print(f"  ⚠ Issue mislukt: {e}")
 
 
+def previous_best_price():
+    """Laagste prijs uit eerdere datumscanner-Issues (open én gesloten), of None."""
+    token = os.environ.get("GITHUB_TOKEN")
+    repo  = os.environ.get("GITHUB_REPOSITORY")
+    if not token or not repo:
+        return None
+    prices = []
+    try:
+        for page in range(1, 11):
+            r = requests.get(
+                f"https://api.github.com/repos/{repo}/issues",
+                params={"labels": "date-scan", "state": "all", "per_page": 100, "page": page},
+                headers={"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"},
+                timeout=10,
+            )
+            r.raise_for_status()
+            batch = r.json()
+            for issue in batch:
+                m = re.search(r"€([\d,]+)", issue["title"])
+                if m:
+                    prices.append(int(m.group(1).replace(",", "")))
+            if len(batch) < 100:
+                break
+    except Exception as e:
+        print(f"  ⚠ Eerdere Issues ophalen mislukt: {e}")
+        return None
+    return min(prices) if prices else None
+
+
 def write_github_summary(all_offers: list, timestamp: str):
     summary_file = os.environ.get("GITHUB_STEP_SUMMARY")
     if not summary_file:
@@ -276,9 +305,13 @@ def main():
     if IS_GH_ACTIONS:
         write_github_summary(all_offers, timestamp)
 
-        # GitHub Issue voor de beste overall prijs
+        # GitHub Issue alleen als de beste prijs lager is dan in alle eerdere Issues
         if all_offers:
             best_all = sorted(all_offers, key=lambda x: x["totalPrice"])[0]
+            prev = previous_best_price()
+            if prev is not None and round(best_all["totalPrice"]) >= prev:
+                print(f"  Geen Issue: €{best_all['totalPrice']:,.0f} is niet lager dan eerdere beste €{prev:,}")
+                return
             create_github_issue(
                 title=f"📅 Datumscanner: beste prijs = €{best_all['totalPrice']:,.0f} op {best_all['departure']} ({best_all['hotel']} / {best_all['airport']})",
                 body=(
