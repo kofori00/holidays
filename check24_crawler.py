@@ -48,6 +48,12 @@ CATERING     = "allinclusive"
 OUTPUT_DIR   = Path(__file__).parent   # sla JSON op naast dit script
 HEADLESS     = True                    # False = je ziet de browser openen
 
+# Vluchttijden die geen vakantiedag kosten (lokale tijd van het vliegveld, "HH:MM")
+OUT_DEP_EARLIEST = "07:00"   # heen: niet midden in de nacht vertrekken
+OUT_ARR_LATEST   = "16:00"   # heen: uiterlijk 16:00 in Antalya → middag/avond al bij het hotel
+RET_DEP_EARLIEST = "12:00"   # terug: ochtend van de laatste dag nog in het hotel
+RET_DEP_LATEST   = "22:00"   # terug: niet na 22:00 vertrekken (anders na 01:00 thuis met de kids)
+
 # ── Prijsalert ────────────────────────────────────────────────────────────────
 def send_notification(title: str, message: str):
     if IS_GH_ACTIONS:
@@ -89,6 +95,17 @@ def create_github_issue(title: str, body: str):
         print(f"  📬 GitHub Issue aangemaakt: {title}")
     except Exception as e:
         print(f"  ⚠ Issue aanmaken mislukt: {e}")
+
+def goede_vluchttijden(o: dict) -> bool:
+    """True als heen- en terugvlucht binnen de tijdvensters vallen."""
+    def hhmm(dt: str) -> str:
+        return dt[11:16] if len(dt) >= 16 else ""
+    out_dep, out_arr, ret_dep = hhmm(o["outDep"]), hhmm(o["outArr"]), hhmm(o["retDep"])
+    if not (out_dep and out_arr and ret_dep):
+        return False
+    return (OUT_DEP_EARLIEST <= out_dep
+            and out_arr <= OUT_ARR_LATEST
+            and RET_DEP_EARLIEST <= ret_dep <= RET_DEP_LATEST)
 
 # ── Check24 URL bouwen ───────────────────────────────────────────────────────
 def build_url(hotel: dict, airport: str) -> str:
@@ -254,19 +271,25 @@ async def scrape_one(context, hotel: dict, airport: str) -> dict:
             "note":    f"Geen offers onderschept ({len(captured)} API-calls gevangen) — debug: {debug_path.name}",
         }
 
-    # Sorteren op prijs
+    # Sorteren op prijs; "cheapest" = goedkoopste met goede vluchttijden
     all_offers.sort(key=lambda x: x["totalPrice"])
-    cheapest = all_offers[0]
+    good_offers = [o for o in all_offers if goede_vluchttijden(o)]
 
-    return {
+    result = {
         "hotel":        hotel["name"],
         "airport":      airport,
         "url":          url,
         "scraped":      datetime.now().isoformat(timespec="seconds"),
-        "cheapest":     cheapest,
-        "top5":         all_offers[:5],
+        "cheapest_any": all_offers[0],
+        "top5":         good_offers[:5],
         "total_found":  len(all_offers),
+        "good_found":   len(good_offers),
     }
+    if good_offers:
+        result["cheapest"] = good_offers[0]
+    else:
+        result["note"] = f"Geen van de {len(all_offers)} offers heeft goede vluchttijden"
+    return result
 
 # ── Alle hotels + luchthavens scrapen ────────────────────────────────────────
 async def run_all():
@@ -309,6 +332,13 @@ async def run_all():
                     print(f"  ✓ Goedkoopste: €{c['totalPrice']:,.0f}  |  {c['operator']}  |  {c['room']}")
                     print(f"    Heen:  {c['outDep']} ({c['outFlight']}) → {c['outArr']}")
                     print(f"    Terug: {c['retDep']} ({c['retFlight']}) → {c['retArr']}")
+                    a = result["cheapest_any"]
+                    print(f"    ({result['good_found']}/{result['total_found']} offers met goede vluchttijden", end="")
+                    if a["totalPrice"] < c["totalPrice"]:
+                        print(f"; goedkoopste met slechte tijden: €{a['totalPrice']:,.0f}, "
+                              f"heen {a['outDep'][11:16]}, terug {a['retDep'][11:16]})")
+                    else:
+                        print(")")
 
                     # Prijsalert
                     if c["totalPrice"] < hotel["alert_below"]:
