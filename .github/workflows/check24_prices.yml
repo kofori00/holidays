@@ -2,8 +2,13 @@ name: Check24 Prijsmonitor
 
 on:
   schedule:
-    # Elke dag om 06:00 CET (= 05:00 UTC)
-    - cron: '0 5 * * *'
+    # 4x per dag op verschillende momenten (dynamische prijzen). Tijden in UTC;
+    # CET = UTC+1 (winter), CEST = UTC+2 (zomer). Oneven minuten: GitHub
+    # vertraagt/skipt runs op het hele uur vaker.
+    - cron: '17 5 * * *'    # 06:17 CET — vroege ochtend
+    - cron: '43 11 * * *'   # 12:43 CET — middag
+    - cron: '29 17 * * *'   # 18:29 CET — avond
+    - cron: '11 22 * * *'   # 23:11 CET — laat (nacht-repricing)
   workflow_dispatch:   # ook handmatig starten via GitHub UI
 
 jobs:
